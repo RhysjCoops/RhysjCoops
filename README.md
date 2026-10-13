@@ -7,7 +7,7 @@ I am a second year student who is currently studying Data Science and Artificial
 ## Currently I am working on three different modules:
 
 * Database Systems
-* Applied Data Analytics
+* Applied Data Analytics & Vis
 * Machine Learning Tech for AI
 
 ## How to find me ✉️
